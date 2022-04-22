@@ -1,4 +1,4 @@
-- I will be the Best 🏆
+I will be the Best 🏆
 
 <!---
 HwangHunJo/HwangHunJo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
